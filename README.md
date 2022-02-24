@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Hi There <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+**I'm Wesley Bertoli**, an Adjunct Professor at the Technological University of Parana - UTFPR.
+
+My research focuses on **Bla bla bla**
+
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=wesleybertoli&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wesleybertoli&hide=TeX&layout=compact)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=wesleybertoli)
