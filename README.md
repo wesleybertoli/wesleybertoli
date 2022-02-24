@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ## Hi! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 **I'm Wesley Bertoli**, Professor of Statistics at the Federal University of Technology - Paraná (UTFPR).
 
-My research focuses on **Statistical Inference, Bayesian Statistics and Computational Statistics**
+My research focuses on Regression Modeling, Bayesian Statistics and Computational Statistics.
 
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=wesleybertoli&count_private=true&show_icons=true&include_all_commits=true)
