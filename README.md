@@ -13,10 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hi There <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
-**I'm Wesley Bertoli**, an Adjunct Professor at the Technological University of Parana - UTFPR.
+## Hi! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+**I'm Wesley Bertoli**, Professor of Statistics, at the Technological University of Parana - UTFPR.
 
-My research focuses on **Bla bla bla**
+My research focuses on **Statistical Inference, Bayesian Statistics and Computational Statistics**
 
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=wesleybertoli&count_private=true&show_icons=true&include_all_commits=true)
