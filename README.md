@@ -18,8 +18,6 @@ I'm **Wesley Bertoli**, Professor of Statistics at the Federal University of Tec
 
 My research focuses on Bayesian Analysis, Computational Statistics, and Regression Modeling.
 
-:mailbox: wbsilva@utfpr.edu.br
-
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=wesleybertoli&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wesleybertoli&hide=TeX&layout=compact)
