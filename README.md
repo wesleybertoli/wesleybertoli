@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 ## Hi! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
-**I'm Wesley Bertoli**, Professor of Statistics at the Federal University of Technology - Paraná (UTFPR).
+I'm **Wesley Bertoli**, Professor of Statistics at the Federal University of Technology - Paraná (UTFPR).
 
 My research focuses on Regression Modeling, Bayesian Statistics and Computational Statistics.
 
